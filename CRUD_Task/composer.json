@@ -1,0 +1,14 @@
+{
+    "name": "elnemr/app",
+    "authors": [
+        {
+            "name": "Ahmed Elnemr Ahmed",
+            "email": "pro.ahmedelnemr@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.12",
+        "clausnz/php-helpers": "^0.2.1",
+        "ext-pdo": "*"
+    }
+}
